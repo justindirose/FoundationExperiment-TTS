@@ -1,0 +1,73 @@
+
+.logo{
+	padding: 1em 0;
+}
+.bg{
+	
+	background: url('../images/blue-bg.png');
+	padding: 5em 0;
+}
+.marketing-header{
+	
+	background: url('../images/city-bg.png');
+	padding: 5em 0;
+}
+.mask {
+	box-shadow: inset 0px 0px 30px 0px black;
+	
+ }
+.bgw{
+	background: white;
+	padding: 5em 0;
+}
+.marketing-text {
+	color: #ddd;
+	text-shadow: 1px 1px 2px #111;
+}
+h2.marketing-text{
+	
+	font-size: 2.75em;
+}
+@media only screen and (min-width: 58.75em) {
+h2.marketing-text{
+	font-size: 5em;
+	margin: 0 1em .5em 1em;
+}}
+.consult-large {
+	margin: 2.5em;
+}
+address{
+	margin: 0 0 0 1.3em;
+}
+h4.menu-phone {
+	color: white;
+	font-weight: normal;
+	font-size: 1.3em;
+	
+}
+.current{
+
+}
+.contain-to-grid.sticky.fixed{
+	height: 45px;
+}
+.testimonial-quote {
+	font-style: italic;
+}
+footer {
+	height: 125px;
+	background: url('../images/binary.png') repeat-x;
+}
+.header {
+	height: 125px;
+	background: black url('../images/header-bar.png') no-repeat center top;
+}
+.contain-to-grid , .top-bar, .menu-button{
+	background: #1b3664;
+}
+.top-bar-section li a:not(.button), .top-bar.expanded .title-area {
+	background: #1b3664;
+}
+.top-bar-section li a:not(.button):hover {
+	background: #10203c;
+}

@@ -1,0 +1,45 @@
+
+.logo{
+	padding: 1em 0;
+}
+.bg{
+	background: grey;
+	padding: 5em 0;
+}
+.bgw{
+	background: white;
+	padding: 5em 0;
+}
+/*a{
+  color: pink;
+}*/
+h2.marketing-text{
+	font-size: 2.75em;
+}
+@media only screen and (min-width: 58.75em) {
+h2.marketing-text{
+	font-size: 5em;
+	margin: 0 1em .5em 1em;
+}}
+.consult-large {
+	margin: 2.5em;
+}
+address{
+	margin: 0 0 0 1.3em;
+}
+h4.menu-phone {
+	color: white;
+	font-weight: normal;
+	font-size: 1.3em;
+	
+}
+.current{
+
+}
+.contain-to-grid.sticky.fixed{
+	height: 45px;
+}
+.testimonial-quote {
+	font-style: italic;
+}
+
